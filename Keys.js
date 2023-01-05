@@ -1,0 +1,2 @@
+export const clave_publica = "pk_test_51KpEFrIf8DlQtP9ZWhcxGpQS3krrfkT2MuxnYAlK8Lw6ByVvKMufNFyo2E7LVEfnOz3xhsTP3BdUFSdwkvqkxYUR00GwT6K4Dw";
+export const clave_secreta = "sk_test_51KpEFrIf8DlQtP9Zw7BgQlRF6oJ7jNqvXcKbq1mWmyD8CQh3cRbbFh766wYIturW7QI2yv0ud1qbyy8iwiuA8iof00bZ7eUdpG"
